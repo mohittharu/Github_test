@@ -1,0 +1,8 @@
+numpy
+pandas 
+acikit-learn 
+matplotlib
+seaborn 
+streamlit
+
+// pip install -r requirements.txt
