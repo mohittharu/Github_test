@@ -6,3 +6,16 @@ seaborn
 streamlit
 
 // pip install -r requirements.txt
+
+// rm -rf My-SQL-/ ( for deleting a directory named My-SQL- )
+
+git branch 
+for adding a new branch, use:
+git branch <branch_name>    
+
+git branch -d <branch_name>  (for deleting a branch)
+git branch -a (to see all branches)
+git branch -b or git checkout -b <branch_name> (to create and switch to a new branch)
+git switch <branch_name> (to switch to an existing branch)
+git checkout <branch_name> (to switch to an existing branch)
+
